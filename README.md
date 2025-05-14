@@ -1,2 +1,2 @@
 # sessionHaltDemo
-This is the live demo of  sessionHalt developed by Vengadesh.r in india, tamilnadu, natchiyarkoil
+This is the OBFUSCATED LIVE DEMO of sessionHalt developed by Vengadesh.r in india, tamilnadu, natchiyarkoil
